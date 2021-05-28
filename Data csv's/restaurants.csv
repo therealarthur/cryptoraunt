@@ -1,0 +1,102 @@
+id,name,street,city,state,zip,yelp_rating,cuisine,phone_number,website
+1,Tagoa,55th and 3rd,manhattan,NY,11384,4.5,italian,7183342222,
+2,Cassin's Auklet,6977 Kshlerin Brook,Jordifort,OR,34843,4,BBQ,721-781-48,http://creola.com
+3,Reed Bunting,4628 Koch Lodge,Larkinbury,SD,44691,4,BBQ,853-933-99,http://jordy.net
+4,Black-throated Sparrow,47587 Axel Court,West Philipport,MI,64020,1,Fine Dining,214-435-51,http://brianne.info
+5,Blue-gray Gnatcatcher,68972 Nitzsche Bypass,Borisfort,NV,95696-6278,1,Burgers,767-448-29,http://korey.com
+6,Bridled Titmouse,05064 Angelina Lodge,Port Louie,VT,86659,0,BBQ,717-579-83,http://lillie.com
+7,Say's Phoebe,694 Spencer Vista,New Shaynaville,NE,54201,4,Korean,576-927-42,http://curt.com
+8,Ivory-billed Woodpecker,891 Ubaldo Mountains,North Vance,NY,88471,1,Korean,691-364-73,http://carter.net
+9,Baird's Sandpiper,14653 Norval Trail,Lake Brigitteport,HI,22239-4571,2,Pastries,211-437-56,https://marisa.info
+10,Long-billed Dowitcher,5569 Weissnat Well,Danielamouth,AR,6468,2,Pastries,600-904-81,http://roosevelt.com
+11,Reed Bunting,39137 O'Reilly Glen,North Alec,HI,37260-2874,3,BBQ,640-515-00,https://shakira.org
+12,Killdeer,792 Lind Parks,Port Leonburgh,RI,33286-6066,0,Korean,263-557-12,https://demetrius.info
+13,Trumpeter Swan,12588 Corwin Prairie,North Marina,PA,79330-0314,1,Wings,739-453-37,https://ulises.info
+14,Oak Titmouse,689 Lynch Camp,West Asiaview,KS,25334,3,Fine Dining,785-651-87,http://quinton.name
+15,Brown Noddy,10401 Oceane Fort,Orlando,AL,34737-7576,2,Burgers,813-244-92,https://jacinto.name
+16,Yellow Grosbeak,5248 Elenora Flat,South Whittier,TN,73075-9273,2,Chinese,378-322-82,https://junius.info
+17,King Eider,013 Meta Brook,East Elaina,AK,71197,4,Burgers,476-588-59,https://sierra.net
+18,White-collared Seedeater,2670 Bridgette Isle,Watsicaland,IN,22139-4891,2,Chinese,748-519-18,http://ivy.org
+19,Western Meadowlark,13209 Price Point,West Earleneburgh,NC,35189,1,Pastries,284-814-09,http://aisha.name
+20,Bluethroat,028 Zemlak Villages,Kirlinburgh,AK,17842-8391,3,Wings,563-364-27,http://elmore.org
+21,Snail Kite,799 Skyla Glen,Smithamfort,GA,43059,3,Wings,838-716-55,https://don.name
+22,Song Sparrow,39834 Waters Gardens,Judahburgh,RI,82881,3,Fine Dining,856-405-64,https://emilia.info
+23,Broad-billed Sandpiper,80796 Hauck Ville,South Danyka,NJ,43170-3650,4,Fine Dining,823-982-36,https://jed.info
+24,Yellow-throated Vireo,8127 Toney Fords,Palmdale,FL,64751,2,Chinese,310-828-55,http://etha.name
+25,Eastern Towhee,6179 Stanton Fork,Port Tryciastad,FL,79830,0,Pastries,297-481-25,https://leslie.org
+26,White-tipped Dove,8347 Wava Centers,Travishaven,ND,11198-9563,0,Korean,785-818-34,https://kurtis.info
+27,Altamira Oriole,244 Koelpin Cliffs,Riverview,GA,94827,2,BBQ,504-827-37,https://ivy.info
+28,Common Murre,20360 Tyree Streets,Port Leonelville,MA,28904,0,Korean,723-760-10,http://annamarie.name
+29,Gray Bunting,6527 Stark Union,Borerland,NM,58857-9541,1,Burgers,410-462-38,https://conner.biz
+30,Mangrove Cuckoo,244 Senger Keys,Lake Aida,RI,64896-3521,3,Sushi,678-844-21,https://horace.net
+31,Greater Prairie-chicken,9844 Breitenberg Path,San Marcos,NJ,4314,3,Fine Dining,361-381-23,http://amira.net
+32,Band-tailed Gull,01979 Boyer Crossing,Krajcikmouth,TN,64076-9894,1,BBQ,768-556-15,https://francisco.info
+33,Mountain Plover,71543 Grimes Port,Kylehaven,IN,72981,3,Sushi,239-409-54,http://amanda.org
+34,Siberian Blue Robin,398 Reid Flats,Dietrichton,MO,35822,1,Pastries,400-355-78,https://kendra.info
+35,Oak Titmouse,20009 Swaniawski Meadows,Sarasota,ID,46845-9347,3,Sushi,449-383-12,http://keegan.name
+36,Sandhill Crane,9739 Koepp Squares,North Marlee,AL,22905-3948,4,Chinese,302-710-71,https://bart.com
+37,Black-browed Albatross,4512 Harber Gateway,Isabellport,OR,62785,4,Pastries,862-518-36,https://mozell.net
+38,Little Blue Heron,399 McLaughlin Shoals,North Angelitamouth,MN,22894,0,Sushi,707-629-46,http://samantha.info
+39,Wedge-tailed Shearwater,79542 Elvis Throughway,West Kiarabury,TX,73788,1,Korean,488-995-30,http://aidan.org
+40,Least Grebe,48087 Daniella Overpass,Cypress,SC,65189,4,Sushi,383-802-62,http://amara.net
+41,Kentucky Warbler,603 Cremin Rapids,Williamsonside,MO,82891,3,Burgers,757-348-94,https://karianne.org
+42,Bachman's Warbler,15989 Kovacek Garden,Lake Madelynmouth,MS,27678-6458,0,Fine Dining,890-950-96,http://theresia.info
+43,Dickcissel,253 Zboncak Fields,Port Jakayla,NE,95710,1,Korean,918-602-17,http://dario.biz
+44,Upland Sandpiper,156 Laney Branch,New Yesseniamouth,DE,71123-9833,0,BBQ,899-826-67,http://godfrey.org
+45,Black Swift,9200 Patricia Hollow,Port Ginafurt,TN,81525-5357,3,Chinese,599-828-58,https://frankie.info
+46,Lark Sparrow,4639 Rosenbaum Common,Turlock,MA,26880,4,Wings,442-336-17,http://birdie.biz
+47,Northern Gannet,66521 Zboncak Square,Warwick,NM,35555,2,Pastries,933-983-20,https://eli.org
+48,Eurasian Dotterel,248 Robel Brooks,West Talonchester,SD,7052,3,Wings,899-728-12,http://alyson.com
+49,Red-breasted Sapsucker,42009 Bradly Summit,Dibbertmouth,KS,4327,4,Fine Dining,580-344-85,https://alicia.info
+50,Swainson's Thrush,49277 Hagenes Walks,New Dallas,NC,50735-0917,2,Wings,612-332-73,https://elvie.com
+51,American Kestrel,31638 Streich Bypass,Mayraberg,VA,23230-3368,3,Sushi,212-209-93,http://gracie.org
+52,Northern Lapwing,58068 Hane Ville,South Gate,WV,83347,0,Wings,740-383-63,https://favian.biz
+53,Yellow-footed Gull,3734 Wilderman Field,Lake Augustachester,CT,47536,4,Korean,871-275-42,http://yadira.name
+54,Black-whiskered Vireo,590 Edythe Islands,North Alanna,WY,3908,1,Fine Dining,983-616-80,http://michaela.biz
+55,Bell's Vireo,757 Rippin Circles,Michellehaven,NH,44353,2,Sushi,910-663-97,https://maxwell.org
+56,Leach's Storm-Petrel,66823 Dach Drive,New Audreannefurt,TX,19577-4945,1,Chinese,720-673-07,https://ahmed.org
+57,Aztec Thrush,254 Isaiah Pines,Parker,AR,42087,1,Korean,365-799-96,https://crystal.net
+58,Common Poorwill,289 Bahringer Estates,West Charles,KY,47000,1,Fine Dining,639-542-71,https://alda.com
+59,Gilded Flicker,5752 Considine Meadows,Swaniawskihaven,MT,25120-9573,2,Burgers,301-583-17,http://lessie.name
+60,Lesser White-fronted Goose,82327 Pink Village,New Jordanville,NM,09395-3279,1,Pastries,479-976-48,https://edwin.info
+61,Brown Pelican,08965 Corbin Meadows,North Raquelmouth,ID,10438-4938,0,BBQ,948-913-16,https://clotilde.name
+62,Cuban Martin,3520 Smitham Circle,Karsonhaven,NC,47327,3,Chinese,773-998-02,https://brett.org
+63,Scaled Quail,064 Towne Point,Port Jacky,KS,14853-2496,4,Pastries,534-713-78,http://nels.org
+64,Black-faced Grassquit,60742 Vernie Grove,Creminstad,HI,18006-8839,1,BBQ,630-277-57,https://alek.com
+65,Sage Grouse,028 Lenny Field,Sporermouth,AR,31090-3691,4,Wings,223-325-09,https://hannah.net
+66,Cuban Martin,005 Terry Crescent,Lake Adriennemouth,GA,24849,3,Korean,759-937-28,http://joanne.net
+67,Ferruginous Hawk,37696 Nellie Dam,Sedrickland,IN,60074-1786,2,Burgers,643-893-23,http://emily.info
+68,Xantus's Hummingbird,2077 Fahey Garden,Isommouth,MI,26264-9700,4,Pastries,290-698-98,https://danny.com
+69,Magnolia Warbler,0943 Gerlach Cliff,Bernhardbury,MS,93482-8401,3,Korean,838-761-99,http://gilbert.biz
+70,Buff-collared Nightjar,305 Miller Extensions,North Lawrence,VT,74838-8530,1,Burgers,941-873-68,https://ed.biz
+71,White-crowned Sparrow,5663 Olin Club,Orlando,NY,62636-7266,0,Chinese,447-869-70,http://juston.info
+72,Black-tailed Godwit,525 Dillan Underpass,Port Jaysonfurt,AR,21767-2551,4,Burgers,935-684-92,https://brent.name
+73,McCown's Longspur,330 Dickens Rue,Baltimore,IN,86629,3,BBQ,267-252-64,http://noel.net
+74,Black-vented Oriole,765 Chaim Trail,O'Keefeland,NM,04818-9862,0,Burgers,349-526-06,http://darien.org
+75,Hepatic Tanager,85048 Marion Square,North Juston,WI,28709-1754,3,Pastries,769-209-37,https://june.net
+76,Lincoln's Sparrow,10409 Roberts Fords,East Fannyville,MT,52813,2,Sushi,737-283-89,http://zackery.biz
+77,Hooded Oriole,283 Geovanni Mountains,Ziemefort,HI,93914-8784,0,Sushi,589-736-25,http://chauncey.org
+78,Least Flycatcher,38966 Feeney Union,Muellermouth,NM,24911,2,BBQ,851-763-74,http://rosemary.org
+79,Mongolian Plover,1234 Tromp Brooks,West Alverta,HI,56448-1796,4,BBQ,253-949-30,http://bradly.name
+80,Yellow-eyed Junco,1562 Delilah Rest,Schulistview,WA,63170-1592,1,Chinese,481-677-24,http://dario.biz
+81,Long-billed Murrelet,1125 Laurel Greens,Kreigerstad,SD,232,2,Wings,533-562-24,https://juston.name
+82,Whooper Swan,8021 Robel Pass,Maritzafurt,NV,47524-1245,2,Sushi,342-603-35,https://gerardo.com
+83,Barred Owl,201 Harber Road,Port Jayce,KY,26911,0,Korean,699-466-61,https://leda.org
+84,Red-eyed Vireo,7634 Crona Trace,Kiarraton,KY,18585-5301,2,Burgers,674-650-89,http://deion.info
+85,Yellow-faced Grassquit,0967 Altenwerth Village,Ferryview,TN,65834,0,Pastries,531-610-55,http://hannah.net
+86,Dunlin,795 Sandra Isle,Quitzonfurt,TN,25682-4186,1,Burgers,867-483-03,https://ryley.org
+87,Spoonbill Sandpiper,8663 Desmond Fort,Kertzmanntown,NV,90116,3,Pastries,258-764-49,https://obie.com
+88,Common Tern,96969 Mikayla Estates,Fullerton,MS,40033,1,Korean,444-729-30,https://emilio.name
+89,Red-legged Kittiwake,1708 Telly Rapid,New Eliezerhaven,AZ,47435-1320,4,Fine Dining,652-694-09,http://stevie.com
+90,Red-eyed Vireo,0334 Kunde Parks,Irving,ID,15109,2,Korean,476-925-09,http://rosalind.com
+91,Anhinga,98988 Dickens Ridges,West Leo,OR,20755-8092,3,Pastries,558-412-67,https://erwin.com
+92,Common Chaffinch,676 Gonzalo Expressway,Friesenville,FL,1548,1,Sushi,717-236-39,http://bailey.info
+93,Black-backed Woodpecker,68590 Zboncak Route,VonRuedentown,OH,10290-0984,4,Korean,609-837-58,https://rodrigo.info
+94,Mottled Duck,11341 Schinner Motorway,Karianemouth,IL,63072-8913,4,Wings,758-968-82,https://lulu.biz
+95,Lesser White-fronted Goose,87520 Mante Shore,East Lukas,ND,36778-9059,0,Fine Dining,703-808-42,http://gianni.com
+96,Belted Kingfisher,71308 Winston Canyon,Christiansenmouth,KS,46272,4,Wings,521-280-80,http://vernon.info
+97,Flammulated Owl,3414 Sipes Orchard,East Mackshire,WY,61105-2026,3,Pastries,235-854-92,http://ronaldo.org
+98,Jungle Nightjar,9938 Tremblay Flat,Port Mozell,WV,63776,1,Korean,300-680-58,https://kattie.biz
+99,Common Chaffinch,714 Boyd Forest,Mount Vernon,WY,51532,1,Fine Dining,243-984-67,https://karina.info
+100,Manx Shearwater,569 Gorczany Stream,Cartwrightmouth,MO,57236,4,Fine Dining,480-956-99,https://aurore.net
+101,Bean Goose,9979 Yundt Inlet,Alisabury,ID,46429-9526,4,Sushi,973-369-18,https://charley.biz

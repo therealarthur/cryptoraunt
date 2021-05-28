@@ -1,0 +1,9 @@
+Hello! Welcome to the API Documentation for cryptoraun:
+
+
+
+We have a great many functions you can do using our API...
+
+
+*CREATION functions:
+ - 

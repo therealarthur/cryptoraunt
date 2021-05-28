@@ -1,0 +1,2001 @@
+id,restaurant_id,menu_item,price
+1,47,Daggertooth pike conger,64
+2,100,Japanese jack mackerel,123
+3,9,Silver cyprinid,119
+4,15,Silver carp,71
+5,72,North Pacific hake,143
+6,10,Pacific thread herring,28
+7,42,Chilean jack mackerel,59
+8,100,Whiteleg shrimp,41
+9,11,Black carp,48
+10,68,Nile tilapia,72
+11,60,Daggertooth pike conger,29
+12,70,Mandarin fish,85
+13,76,Indian mackerel,126
+14,71,"Asari,",113
+15,4,Yellowstripe scad,13
+16,17,North Pacific hake,44
+17,89,Pacific sandlance,36
+18,3,Nile tilapia,106
+19,63,Atlantic herring,39
+20,97,Pacific herring,111
+21,67,Milkfish,137
+22,48,Yellowfin tuna,129
+23,21,Japanese jack mackerel,31
+24,97,"Asari,",13
+25,22,Black carp,42
+26,63,"Japanese littleneck,",12
+27,9,Atlantic horse mackerel,148
+28,64,Goldstripe sardinella,18
+29,83,Indian mackerel,18
+30,70,Rainbow trout,101
+31,96,Catla,92
+32,93,Chub mackerel,19
+33,67,Longtail tuna,120
+34,17,Pink salmon,70
+35,35,Pacific sand lance,79
+36,91,Kawakawa,14
+37,50,Argentine hake,121
+38,17,Mandarin fish,109
+39,89,Blue whiting,137
+40,87,Bonga shad,146
+41,83,Bigeye scad,63
+42,88,Cape horse mackerel,14
+43,60,Chum salmon,8
+44,85,Cape horse mackerel,57
+45,35,"Asari,",71
+46,55,Peruvian anchoveta,72
+47,30,"Asari,",54
+48,5,Silver cyprinid,41
+49,49,Gulf menhaden,46
+50,73,Pacific thread herring,19
+51,15,Asian swamp eel,8
+52,92,Atlantic salmon,12
+53,87,Asian swamp eel,113
+54,70,European pilchard,112
+55,20,Hilsa shad,133
+56,42,European pilchard,45
+57,5,Japanese flying squid,41
+58,33,Peruvian anchoveta,123
+59,36,"Filipino Venus,",93
+60,59,Japanese pilchard,105
+61,29,Silver cyprinid,33
+62,82,Bigeye scad,68
+63,72,Albacore,76
+64,2,Bonga shad,34
+65,72,Pollock,89
+66,38,Pacific sandlance,132
+67,85,Indian mackerel,147
+68,26,Silver cyprinid,135
+69,38,"Japanese littleneck,",128
+70,87,Cape horse mackerel,62
+71,99,Blue whiting,43
+72,21,Bigeye tuna,95
+73,79,Largehead hairtail,15
+74,54,Bigeye scad,5
+75,31,Blood cockle,136
+76,74,Goldstripe sardinella,69
+77,6,Indian oil sardine,75
+78,69,Bonga shad,21
+79,75,Yellowfin tuna,75
+80,44,Round sardinella,54
+81,44,Southern African anchovy,39
+82,76,Chilean jack mackerel,73
+83,83,Northern snakehead,16
+84,91,Gazami crab,54
+85,63,Hilsa shad,139
+86,53,Japanese pilchard,42
+87,50,Bighead carp,110
+88,58,Blue whiting,122
+89,13,European sprat,18
+90,17,Alaska pollock,80
+91,8,Japanese flying squid,104
+92,94,Japanese flying squid,92
+93,33,Blue swimming crab,57
+94,45,Cape horse mackerel,97
+95,28,Grass carp,19
+96,82,Hilsa shad,79
+97,83,Hilsa shad,81
+98,26,Chinese softshell turtle,49
+99,64,Pond loach,116
+100,95,Bigeye scad,49
+101,89,Pacific cod,12
+102,94,Korean bullhead,43
+103,31,Haddock,142
+104,74,Alaska pollock,100
+105,17,Gazami crab,136
+106,84,European pilchard,51
+107,40,Pollock,126
+108,29,Korean bullhead,68
+109,93,Capelin,99
+110,89,Amur catfish,149
+111,29,Indian oil sardine,90
+112,53,Pond loach,123
+113,67,Pacific cod,51
+114,3,Gulf menhaden,110
+115,51,Chum salmon,55
+116,65,"Asari,",32
+117,100,Wuchang bream,126
+118,65,Blood cockle,38
+119,53,North Pacific hake,50
+120,100,Nile tilapia,62
+121,55,Yellowhead catfish,40
+122,19,Chilean jack mackerel,8
+123,90,Albacore,149
+124,51,Pacific anchoveta,87
+125,47,Araucanian herring,126
+126,96,Atlantic herring,111
+127,17,Kawakawa,78
+128,1,European pilchard,116
+129,82,Short mackerel,28
+130,53,Common carp,58
+131,34,Catla,75
+132,34,Yellowfin tuna,50
+133,19,Blue swimming crab,88
+134,6,Korean bullhead,78
+135,23,"Japanese littleneck,",122
+136,81,Japanese common catfish,115
+137,28,Chinese perch,149
+138,93,Bigeye tuna,28
+139,61,Indian oil sardine,57
+140,53,Chum salmon,9
+141,76,Silver cyprinid,80
+142,93,Alaska pollock,146
+143,53,Pond loach,72
+144,62,North Pacific hake,100
+145,14,Mandarin fish,18
+146,85,Silver cyprinid,25
+147,35,Silver carp,21
+148,97,Daggertooth pike conger,99
+149,60,Kawakawa,119
+150,34,Goldstripe sardinella,114
+151,20,Catla,126
+152,5,Yellowhead catfish,31
+153,8,Chum salmon,10
+154,62,Bigeye tuna,138
+155,49,Yellowhead catfish,32
+156,85,Rainbow trout,5
+157,94,Round sardinella,92
+158,69,Yellowfin tuna,81
+159,96,Goldstripe sardinella,5
+160,26,Wuchang bream,147
+161,70,Wuchang bream,73
+162,94,"Filipino Venus,",5
+163,95,Pacific herring,126
+164,12,Atlantic cod,127
+165,62,Crucian carp,103
+166,53,Yellowstripe scad,55
+167,20,Skipjack tuna,53
+168,74,Pacific anchoveta,113
+169,11,Channel catfish,67
+170,95,Yellow croaker,89
+171,74,Crucian carp,69
+172,65,"Asari,",103
+173,57,Atlantic horse mackerel,100
+174,39,Longtail tuna,110
+175,4,Grass carp,137
+176,73,Japanese flying squid,20
+177,19,Bigeye scad,16
+178,36,Pink salmon,33
+179,42,Pacific sand lance,105
+180,52,"Japanese littleneck,",104
+181,2,Alaska pollock,9
+182,30,Round sardinella,32
+183,65,Pink salmon,36
+184,45,Channel catfish,137
+185,46,Skipjack tuna,80
+186,9,Japanese anchovy,22
+187,34,European anchovy,137
+188,63,Crucian carp,20
+189,89,Hilsa shad,123
+190,72,Pacific thread herring,141
+191,72,Bonga shad,123
+192,42,Blue whiting,100
+193,76,Bonga shad,135
+194,70,Argentine hake,60
+195,15,Southern rough shrimp,48
+196,51,Rainbow trout,94
+197,47,Bigeye tuna,84
+198,91,Chinese softshell turtle,117
+199,50,Milkfish,134
+200,17,Madeiran sardinella,22
+201,97,Rainbow trout,12
+202,23,Chinese perch,86
+203,2,Nile tilapia,40
+204,1,Grass carp,53
+205,78,Largehead hairtail,97
+206,60,"Japanese littleneck,",137
+207,0,Peruvian anchoveta,135
+208,72,Bighead carp,109
+209,30,Skipjack tuna,96
+210,8,Chinese softshell turtle,5
+211,1,Kawakawa,38
+212,68,Channel catfish,121
+213,81,Silver carp,89
+214,27,Nile tilapia,84
+215,0,Northern snakehead,51
+216,11,Kawakawa,84
+217,89,Channel catfish,33
+218,44,Yellowstripe scad,10
+219,23,Skipjack tuna,113
+220,44,Channel catfish,80
+221,98,Narrow-barred Spanish mackerel,110
+222,85,Haddock,85
+223,91,Araucanian herring,99
+224,44,Atlantic menhaden,123
+225,31,Mrigal carp,140
+226,70,Catla,97
+227,93,"Japanese cockle,",58
+228,41,Indian mackerel,138
+229,4,Crucian carp,148
+230,32,Chub mackerel,73
+231,92,Bigeye tuna,88
+232,7,Atlantic menhaden,65
+233,47,Grass carp,114
+234,77,Pond loach,49
+235,42,Rohu,25
+236,58,Japanese pilchard,78
+237,0,Longtail tuna,121
+238,55,Southern African anchovy,149
+239,16,Nile tilapia,98
+240,54,Yellowfin tuna,56
+241,58,Jumbo flying squid,124
+242,5,European anchovy,14
+243,87,European anchovy,41
+244,27,"Filipino Venus,",59
+245,0,Gulf menhaden,112
+246,6,Grass carp,66
+247,46,Skipjack tuna,145
+248,64,Atlantic horse mackerel,14
+249,47,California pilchard,148
+250,9,Pacific sandlance,28
+251,70,Chum salmon,60
+252,54,Yellowfin tuna,105
+253,26,Haddock,81
+254,44,Pond loach,122
+255,44,Whiteleg shrimp,121
+256,11,Pink salmon,23
+257,52,Gulf menhaden,19
+258,49,Blue whiting,91
+259,50,Silver cyprinid,125
+260,70,Common carp,108
+261,84,Longtail tuna,70
+262,25,"Japanese littleneck,",142
+263,72,European anchovy,111
+264,12,Pacific saury,129
+265,62,European pilchard,109
+266,24,Pink salmon,79
+267,73,Jumbo flying squid,80
+268,34,Pacific saury,83
+269,9,Nile perch,127
+270,84,Channel catfish,26
+271,51,Rainbow trout,18
+272,18,Argentine hake,52
+273,75,Whiteleg shrimp,146
+274,65,Nile tilapia,87
+275,76,Japanese jack mackerel,110
+276,87,Albacore,108
+277,68,Grass carp,107
+278,78,Jumbo flying squid,19
+279,61,Pacific sand lance,16
+280,30,Alaska pollock,146
+281,37,European sprat,130
+282,26,Pacific anchoveta,134
+283,94,Pacific sand lance,52
+284,84,Bonga shad,28
+285,83,Albacore,135
+286,36,Silver carp,42
+287,87,Yellow croaker,20
+288,65,Argentine hake,9
+289,70,Nile tilapia,68
+290,35,Chinese softshell turtle,48
+291,49,Jumbo flying squid,42
+292,72,Gazami crab,17
+293,73,Jumbo flying squid,65
+294,100,Grass carp,50
+295,93,Hilsa shad,122
+296,86,Mandarin fish,66
+297,94,Pond loach,80
+298,56,Pond loach,11
+299,52,Mandarin fish,17
+300,45,Goldstripe sardinella,133
+301,56,Blood cockle,113
+302,75,Atlantic herring,22
+303,93,Common carp,139
+304,34,Argentine hake,44
+305,26,Mrigal carp,40
+306,38,Capelin,108
+307,87,Japanese jack mackerel,118
+308,3,Korean bullhead,32
+309,88,Indian oil sardine,109
+310,45,Chinese softshell turtle,142
+311,64,Japanese jack mackerel,53
+312,89,Atlantic salmon,90
+313,94,Haddock,52
+314,96,Chinese perch,67
+315,41,Wuchang bream,67
+316,78,Wuchang bream,101
+317,2,Peruvian anchoveta,111
+318,35,Argentine hake,109
+319,100,Nile tilapia,78
+320,45,Japanese pilchard,15
+321,84,European sprat,122
+322,21,Pacific anchoveta,149
+323,16,Round sardinella,26
+324,9,Pacific thread herring,108
+325,27,Pond loach,40
+326,59,Black carp,135
+327,74,Japanese jack mackerel,16
+328,56,Japanese anchovy,9
+329,30,Pollock,132
+330,69,Bigeye tuna,95
+331,60,Yellow croaker,15
+332,22,Short mackerel,16
+333,70,Chub mackerel,78
+334,24,"Japanese littleneck,",72
+335,16,European anchovy,44
+336,39,Wuchang bream,91
+337,53,European pilchard,22
+338,78,Blue whiting,6
+339,45,Japanese anchovy,70
+340,40,Pond loach,22
+341,25,Chilean jack mackerel,57
+342,72,Jumbo flying squid,103
+343,55,Common carp,21
+344,7,"Asari,",22
+345,89,Atlantic menhaden,17
+346,90,Common carp,131
+347,91,European pilchard,21
+348,72,Cape horse mackerel,129
+349,33,Araucanian herring,90
+350,52,Nile tilapia,116
+351,92,Blue whiting,96
+352,38,European sprat,49
+353,31,Narrow-barred Spanish mackerel,97
+354,85,Southern African anchovy,106
+355,7,Atlantic horse mackerel,133
+356,11,Blue whiting,119
+357,8,Peruvian anchoveta,27
+358,23,Capelin,131
+359,53,Yellow croaker,63
+360,24,Kawakawa,83
+361,77,Wuchang bream,23
+362,33,Grass carp,70
+363,3,Wuchang bream,40
+364,67,Southern rough shrimp,20
+365,29,Narrow-barred Spanish mackerel,100
+366,54,Cape horse mackerel,23
+367,36,Madeiran sardinella,125
+368,46,Skipjack tuna,129
+369,28,Korean bullhead,57
+370,17,Bigeye tuna,120
+371,33,Pacific saury,60
+372,96,Black carp,57
+373,68,Bighead carp,133
+374,32,Cape horse mackerel,13
+375,82,Southern African anchovy,31
+376,95,Mandarin fish,54
+377,9,Silver cyprinid,69
+378,59,Yellowhead catfish,142
+379,46,"Filipino Venus,",135
+380,59,Atlantic cod,138
+381,61,Araucanian herring,96
+382,7,Whiteleg shrimp,141
+383,71,Pollock,39
+384,41,Atlantic herring,34
+385,54,Silver carp,60
+386,80,Southern rough shrimp,147
+387,79,Mandarin fish,125
+388,78,"Japanese littleneck,",138
+389,66,Nile tilapia,97
+390,26,Pond loach,7
+391,30,Gazami crab,45
+392,9,Rohu,100
+393,76,Longtail tuna,117
+394,17,"Japanese littleneck,",118
+395,28,Longtail tuna,43
+396,6,Pacific anchoveta,37
+397,22,Nile tilapia,102
+398,51,Araucanian herring,133
+399,6,Atlantic mackerel,98
+400,27,Argentine hake,44
+401,9,Nile tilapia,42
+402,49,Narrow-barred Spanish mackerel,99
+403,24,Argentine hake,37
+404,0,Blue swimming crab,128
+405,69,Chum salmon,108
+406,87,Pink salmon,7
+407,56,Albacore,63
+408,87,Milkfish,110
+409,29,Peruvian anchoveta,46
+410,4,Northern snakehead,20
+411,99,Blue whiting,131
+412,44,Round sardinella,99
+413,69,Iridescent shark,8
+414,6,Pacific cod,114
+415,30,Largehead hairtail,72
+416,75,Pacific cod,71
+417,6,Atlantic cod,61
+418,29,Silver carp,39
+419,49,Araucanian herring,119
+420,54,Crucian carp,139
+421,2,Gulf menhaden,37
+422,60,Southern African anchovy,136
+423,41,Gazami crab,80
+424,38,Nile tilapia,27
+425,46,Short mackerel,88
+426,37,Capelin,148
+427,49,Nile tilapia,16
+428,0,Pacific saury,84
+429,30,Milkfish,72
+430,80,Atlantic menhaden,101
+431,29,Madeiran sardinella,46
+432,46,Nile perch,77
+433,46,Bombay-duck,141
+434,76,Atlantic menhaden,104
+435,90,Silver carp,77
+436,21,Crucian carp,27
+437,61,Southern rough shrimp,12
+438,87,Amur catfish,5
+439,78,Araucanian herring,14
+440,75,Pacific sandlance,6
+441,58,Japanese jack mackerel,86
+442,6,Indian mackerel,138
+443,88,Blue whiting,61
+444,67,"Japanese cockle,",38
+445,81,Blue whiting,71
+446,13,North Pacific hake,52
+447,3,Atlantic menhaden,143
+448,20,Narrow-barred Spanish mackerel,45
+449,43,Amur catfish,143
+450,32,Madeiran sardinella,110
+451,88,"Japanese littleneck,",70
+452,61,Black carp,137
+453,74,Pacific sand lance,60
+454,15,Japanese pilchard,117
+455,33,Pacific cod,30
+456,86,Mrigal carp,94
+457,42,Araucanian herring,18
+458,57,"Asari,",134
+459,23,Madeiran sardinella,146
+460,55,Bigeye scad,14
+461,32,Pacific sandlance,7
+462,61,Rainbow trout,62
+463,9,Pacific cod,130
+464,12,Silver cyprinid,60
+465,52,Pacific herring,108
+466,14,Pacific anchoveta,39
+467,80,Bonga shad,64
+468,38,Milkfish,50
+469,87,Blood cockle,83
+470,5,Crucian carp,71
+471,75,Japanese pilchard,116
+472,35,Blue whiting,49
+473,36,Cape horse mackerel,23
+474,28,Atlantic mackerel,90
+475,29,Wuchang bream,5
+476,76,Argentine hake,127
+477,18,Albacore,50
+478,69,Capelin,29
+479,3,Rohu,47
+480,81,Bigeye scad,80
+481,3,Pacific sandlance,85
+482,25,Atlantic cod,123
+483,53,Wuchang bream,69
+484,76,Bonga shad,68
+485,80,Bigeye scad,111
+486,82,Pink salmon,91
+487,61,Japanese anchovy,122
+488,94,Bonga shad,21
+489,84,Chinese perch,23
+490,66,Madeiran sardinella,101
+491,34,Alaska pollock,113
+492,55,Japanese flying squid,142
+493,45,Blue whiting,41
+494,3,Southern rough shrimp,124
+495,41,Pollock,91
+496,86,Atlantic cod,63
+497,42,Blood cockle,37
+498,61,Japanese jack mackerel,12
+499,34,Catla,11
+500,72,Pacific sandlance,135
+501,64,Milkfish,136
+502,26,Grass carp,115
+503,90,Chub mackerel,76
+504,66,Silver carp,136
+505,78,Cape horse mackerel,86
+506,33,Japanese pilchard,73
+507,91,Silver cyprinid,38
+508,27,Japanese jack mackerel,46
+509,84,Yellow croaker,7
+510,45,Argentine hake,57
+511,22,Albacore,34
+512,57,Grass carp,38
+513,51,Daggertooth pike conger,147
+514,31,Chub mackerel,122
+515,35,Japanese common catfish,52
+516,5,Rainbow trout,22
+517,61,North Pacific hake,104
+518,15,Albacore,75
+519,61,Longtail tuna,50
+520,100,Yellow croaker,75
+521,76,Chum salmon,86
+522,53,Argentine hake,104
+523,78,Pacific saury,42
+524,25,Pacific sand lance,9
+525,67,European anchovy,139
+526,42,Kawakawa,60
+527,13,European pilchard,99
+528,92,Yellowhead catfish,99
+529,45,European sprat,8
+530,74,Pacific sand lance,65
+531,57,Nile perch,124
+532,17,Channel catfish,18
+533,52,Grass carp,40
+534,21,Mandarin fish,133
+535,72,Nile tilapia,100
+536,2,Nile tilapia,10
+537,63,"Japanese cockle,",71
+538,67,Jumbo flying squid,24
+539,59,Bonga shad,89
+540,45,Yellow croaker,84
+541,6,Atlantic cod,139
+542,28,Yellow croaker,21
+543,29,Southern African anchovy,42
+544,69,Haddock,109
+545,70,Indian mackerel,130
+546,68,Yellowhead catfish,127
+547,48,Bonga shad,75
+548,23,Atlantic mackerel,140
+549,54,Blood cockle,71
+550,85,Atlantic mackerel,51
+551,59,Blue swimming crab,123
+552,23,Argentine hake,40
+553,80,Gulf menhaden,55
+554,45,Short mackerel,146
+555,0,Atlantic horse mackerel,60
+556,80,Haddock,68
+557,65,North Pacific hake,132
+558,48,Pacific herring,45
+559,19,Bighead carp,118
+560,84,Gazami crab,121
+561,12,Goldstripe sardinella,44
+562,13,Channel catfish,21
+563,37,Japanese anchovy,99
+564,16,Alaska pollock,10
+565,42,Alaska pollock,119
+566,82,Short mackerel,110
+567,21,Pacific anchoveta,45
+568,60,Longtail tuna,24
+569,81,Jumbo flying squid,122
+570,91,Atlantic horse mackerel,116
+571,25,Capelin,40
+572,38,Pacific cod,22
+573,28,Channel catfish,129
+574,80,Southern African anchovy,76
+575,43,Nile tilapia,5
+576,83,Wuchang bream,66
+577,18,Atlantic mackerel,28
+578,82,Common carp,130
+579,83,Grass carp,43
+580,4,Southern rough shrimp,103
+581,80,Narrow-barred Spanish mackerel,130
+582,57,Silver cyprinid,131
+583,92,Japanese common catfish,33
+584,69,Short mackerel,42
+585,84,Southern African anchovy,105
+586,7,European sprat,47
+587,52,Japanese pilchard,91
+588,78,Korean bullhead,26
+589,45,Grass carp,47
+590,47,Nile perch,133
+591,59,Madeiran sardinella,128
+592,21,Pacific herring,67
+593,56,Indian oil sardine,76
+594,24,Japanese common catfish,102
+595,30,Nile perch,134
+596,70,Kawakawa,51
+597,39,Southern African anchovy,25
+598,12,Atlantic herring,88
+599,69,Bigeye scad,6
+600,6,Yellow croaker,95
+601,24,Pacific sandlance,76
+602,5,Madeiran sardinella,31
+603,48,Atlantic horse mackerel,81
+604,9,Narrow-barred Spanish mackerel,12
+605,74,Pacific herring,38
+606,100,Peruvian anchoveta,116
+607,93,Yellowhead catfish,78
+608,34,Whiteleg shrimp,72
+609,79,Yellowfin tuna,109
+610,67,Pacific sandlance,91
+611,100,Amur catfish,23
+612,9,Atlantic cod,43
+613,57,Japanese jack mackerel,35
+614,70,Japanese anchovy,11
+615,9,Chinese perch,58
+616,43,Bigeye tuna,81
+617,24,Common carp,101
+618,18,Gazami crab,82
+619,59,Atlantic horse mackerel,100
+620,46,Blue whiting,71
+621,70,Largehead hairtail,85
+622,11,Crucian carp,140
+623,10,Wuchang bream,143
+624,61,Rainbow trout,123
+625,9,Silver carp,16
+626,93,Pollock,53
+627,71,Argentine hake,118
+628,29,Albacore,115
+629,39,Blue swimming crab,99
+630,85,Albacore,27
+631,54,European pilchard,73
+632,33,Skipjack tuna,64
+633,69,"Asari,",72
+634,89,European pilchard,66
+635,37,Japanese flying squid,30
+636,35,European anchovy,105
+637,4,"Asari,",137
+638,61,Grass carp,90
+639,87,Blue whiting,126
+640,73,Skipjack tuna,87
+641,28,Southern African anchovy,39
+642,41,Atlantic mackerel,68
+643,25,Pollock,72
+644,3,Rohu,148
+645,75,Chub mackerel,117
+646,0,Bighead carp,114
+647,29,Pacific cod,150
+648,35,Bigeye scad,47
+649,47,Jumbo flying squid,136
+650,17,Chinese softshell turtle,61
+651,48,Pacific herring,62
+652,71,Pollock,131
+653,26,Mrigal carp,40
+654,68,Indian oil sardine,24
+655,25,Kawakawa,142
+656,100,Atlantic horse mackerel,108
+657,58,Longtail tuna,95
+658,27,Peruvian anchoveta,93
+659,23,"Asari,",107
+660,15,"Japanese cockle,",62
+661,67,Nile tilapia,115
+662,4,Gazami crab,13
+663,5,Pollock,75
+664,41,Yellowhead catfish,29
+665,55,"Asari,",98
+666,30,Japanese anchovy,148
+667,9,Mandarin fish,15
+668,51,Blue swimming crab,24
+669,43,Silver cyprinid,27
+670,96,Japanese pilchard,15
+671,83,Pacific herring,109
+672,7,Bigeye scad,45
+673,95,Grass carp,38
+674,76,Milkfish,56
+675,77,Silver cyprinid,123
+676,13,"Japanese littleneck,",75
+677,77,Short mackerel,69
+678,22,Cape horse mackerel,86
+679,32,Southern African anchovy,147
+680,52,Nile perch,77
+681,32,Milkfish,117
+682,1,Skipjack tuna,82
+683,33,Gazami crab,30
+684,2,European sprat,89
+685,73,Indian oil sardine,104
+686,58,Pacific saury,98
+687,40,Pacific herring,42
+688,1,Common carp,113
+689,20,Pacific sandlance,59
+690,46,Pond loach,105
+691,53,"Asari,",5
+692,14,Yellowfin tuna,108
+693,45,Araucanian herring,115
+694,54,Whiteleg shrimp,149
+695,14,Pink salmon,55
+696,53,Chinese softshell turtle,107
+697,67,Haddock,72
+698,58,Black carp,25
+699,1,North Pacific hake,137
+700,35,Blue whiting,107
+701,81,Nile perch,58
+702,10,Bigeye scad,93
+703,85,Blue whiting,26
+704,91,Japanese pilchard,134
+705,26,Bonga shad,53
+706,86,Pacific thread herring,97
+707,95,Indian mackerel,94
+708,16,Southern rough shrimp,82
+709,73,Amur catfish,116
+710,53,Round sardinella,17
+711,42,Crucian carp,128
+712,43,Japanese pilchard,39
+713,50,Southern rough shrimp,116
+714,61,"Asari,",55
+715,13,Atlantic cod,49
+716,8,Capelin,78
+717,40,Gazami crab,14
+718,38,Grass carp,149
+719,15,Atlantic horse mackerel,82
+720,62,Atlantic herring,49
+721,85,Chub mackerel,74
+722,58,California pilchard,73
+723,51,Yellow croaker,129
+724,45,"Asari,",76
+725,65,Amur catfish,15
+726,25,Yellowstripe scad,13
+727,0,Araucanian herring,85
+728,51,Gazami crab,111
+729,44,Daggertooth pike conger,93
+730,99,Nile tilapia,141
+731,26,Pink salmon,116
+732,52,Bigeye scad,17
+733,65,California pilchard,47
+734,56,Japanese common catfish,51
+735,97,Rainbow trout,84
+736,41,Pacific sandlance,94
+737,14,Araucanian herring,147
+738,92,Catla,50
+739,84,Bigeye scad,113
+740,82,Narrow-barred Spanish mackerel,86
+741,87,Chub mackerel,77
+742,70,Yellowhead catfish,83
+743,3,Longtail tuna,116
+744,26,Indian mackerel,114
+745,77,Yellowhead catfish,50
+746,69,Rohu,67
+747,4,Skipjack tuna,97
+748,32,Nile tilapia,142
+749,62,Short mackerel,137
+750,29,"Japanese cockle,",18
+751,18,Blood cockle,45
+752,77,Chilean jack mackerel,61
+753,61,Silver carp,118
+754,43,Blood cockle,76
+755,11,California pilchard,149
+756,51,Korean bullhead,71
+757,4,Argentine hake,53
+758,19,Yellowhead catfish,76
+759,74,Silver carp,150
+760,6,Atlantic horse mackerel,137
+761,25,Amur catfish,95
+762,91,Indian oil sardine,91
+763,45,Narrow-barred Spanish mackerel,72
+764,54,Atlantic mackerel,62
+765,23,European pilchard,142
+766,47,Rainbow trout,115
+767,61,Japanese jack mackerel,122
+768,33,Atlantic horse mackerel,148
+769,64,Iridescent shark,81
+770,61,"Japanese cockle,",11
+771,95,Common carp,105
+772,95,Jumbo flying squid,52
+773,78,Albacore,118
+774,84,"Japanese cockle,",111
+775,91,Bigeye scad,93
+776,96,Whiteleg shrimp,42
+777,10,Asian swamp eel,50
+778,34,Blood cockle,99
+779,61,California pilchard,68
+780,62,Bombay-duck,79
+781,42,Japanese jack mackerel,50
+782,24,Madeiran sardinella,15
+783,24,Blue whiting,64
+784,34,"Asari,",11
+785,2,Grass carp,77
+786,42,Common carp,22
+787,2,Wuchang bream,25
+788,15,Pond loach,131
+789,70,Pacific saury,112
+790,55,Madeiran sardinella,89
+791,59,Grass carp,110
+792,97,Pacific sandlance,81
+793,85,Black carp,89
+794,98,Pacific anchoveta,118
+795,70,Yellowhead catfish,141
+796,40,European sprat,118
+797,13,Pacific thread herring,8
+798,55,Araucanian herring,125
+799,11,Blue swimming crab,138
+800,35,Bigeye scad,137
+801,91,Southern rough shrimp,36
+802,93,European pilchard,30
+803,66,Jumbo flying squid,111
+804,52,Nile perch,91
+805,57,Mandarin fish,101
+806,32,Blue swimming crab,49
+807,57,Nile perch,92
+808,53,Yellowstripe scad,138
+809,26,"Japanese littleneck,",86
+810,45,Blood cockle,64
+811,3,Bombay-duck,143
+812,24,Korean bullhead,94
+813,27,Round sardinella,121
+814,40,Narrow-barred Spanish mackerel,112
+815,28,Skipjack tuna,79
+816,87,Goldstripe sardinella,93
+817,88,European anchovy,24
+818,59,Southern African anchovy,76
+819,79,Pacific saury,16
+820,55,European pilchard,143
+821,8,Rohu,92
+822,55,Mrigal carp,132
+823,45,Pond loach,29
+824,75,Largehead hairtail,123
+825,59,Yellowstripe scad,26
+826,48,Largehead hairtail,61
+827,58,Blood cockle,45
+828,1,North Pacific hake,147
+829,93,Common carp,29
+830,50,Nile tilapia,68
+831,24,Pacific anchoveta,86
+832,64,Chub mackerel,49
+833,15,European anchovy,52
+834,28,North Pacific hake,69
+835,82,Grass carp,92
+836,5,Milkfish,120
+837,33,Argentine hake,12
+838,51,Bonga shad,145
+839,21,Common carp,55
+840,87,Atlantic horse mackerel,81
+841,96,Round sardinella,131
+842,75,Blue whiting,55
+843,51,Yellowhead catfish,82
+844,52,Pacific cod,128
+845,54,Chinese softshell turtle,118
+846,26,Yellow croaker,32
+847,21,Northern snakehead,39
+848,80,European pilchard,80
+849,89,Southern rough shrimp,94
+850,27,Longtail tuna,92
+851,72,Daggertooth pike conger,112
+852,97,Blood cockle,76
+853,29,Short mackerel,76
+854,46,Japanese common catfish,130
+855,5,Pink salmon,112
+856,33,Madeiran sardinella,88
+857,77,Japanese pilchard,75
+858,37,Pollock,15
+859,4,California pilchard,59
+860,9,Chum salmon,83
+861,41,Pacific saury,115
+862,1,Atlantic menhaden,85
+863,39,Pacific herring,73
+864,38,Pacific sandlance,12
+865,83,Pacific herring,33
+866,98,Yellowhead catfish,77
+867,45,Bigeye tuna,33
+868,33,Pacific sandlance,85
+869,5,Nile perch,8
+870,42,Madeiran sardinella,45
+871,43,Atlantic mackerel,94
+872,97,Albacore,105
+873,31,Largehead hairtail,48
+874,65,Silver cyprinid,9
+875,38,Rainbow trout,75
+876,69,Pond loach,116
+877,79,Indian oil sardine,95
+878,92,Largehead hairtail,142
+879,43,"Asari,",133
+880,95,Atlantic menhaden,77
+881,5,Pink salmon,116
+882,51,Common carp,19
+883,68,Southern African anchovy,126
+884,51,Yellowstripe scad,146
+885,41,Gulf menhaden,147
+886,33,Alaska pollock,50
+887,71,Nile tilapia,65
+888,24,Mrigal carp,81
+889,17,Channel catfish,71
+890,0,Japanese flying squid,88
+891,99,Korean bullhead,26
+892,95,Largehead hairtail,80
+893,88,Madeiran sardinella,7
+894,58,Pond loach,50
+895,96,Skipjack tuna,83
+896,23,Yellow croaker,5
+897,34,Pacific sand lance,17
+898,69,Blood cockle,79
+899,41,Southern African anchovy,61
+900,84,Southern African anchovy,47
+901,80,Bigeye tuna,59
+902,56,Silver cyprinid,22
+903,15,Nile tilapia,50
+904,19,European pilchard,145
+905,56,Nile perch,73
+906,8,Longtail tuna,123
+907,24,Bigeye scad,41
+908,50,Yellowfin tuna,35
+909,39,Cape horse mackerel,103
+910,59,Hilsa shad,122
+911,40,Bonga shad,47
+912,76,Chub mackerel,50
+913,73,Araucanian herring,28
+914,1,European pilchard,41
+915,83,Grass carp,69
+916,75,Skipjack tuna,99
+917,12,Southern African anchovy,51
+918,10,Daggertooth pike conger,64
+919,3,Korean bullhead,50
+920,9,Blue whiting,126
+921,61,Hilsa shad,61
+922,60,Pacific herring,82
+923,87,California pilchard,59
+924,55,Peruvian anchoveta,30
+925,21,Madeiran sardinella,102
+926,17,"Japanese littleneck,",40
+927,17,Narrow-barred Spanish mackerel,45
+928,95,Chum salmon,124
+929,97,Bighead carp,119
+930,87,Skipjack tuna,59
+931,63,Channel catfish,106
+932,77,European pilchard,125
+933,15,Haddock,91
+934,50,Yellowhead catfish,123
+935,95,Mandarin fish,20
+936,7,California pilchard,92
+937,83,Pacific thread herring,29
+938,86,"Filipino Venus,",63
+939,5,Bigeye scad,66
+940,69,European sprat,45
+941,75,Pacific sandlance,144
+942,38,Pollock,29
+943,81,Pacific herring,102
+944,52,Atlantic herring,32
+945,59,Pacific thread herring,15
+946,34,European anchovy,28
+947,73,"Filipino Venus,",39
+948,1,Bigeye tuna,117
+949,55,Chilean jack mackerel,129
+950,53,Pink salmon,45
+951,66,Pacific saury,47
+952,3,Hilsa shad,116
+953,37,Japanese anchovy,94
+954,35,Argentine hake,36
+955,11,Largehead hairtail,28
+956,75,Atlantic herring,54
+957,96,Chinese perch,37
+958,12,Southern African anchovy,138
+959,41,Chinese perch,101
+960,10,Atlantic horse mackerel,63
+961,57,Japanese anchovy,79
+962,2,Bonga shad,20
+963,42,Argentine hake,54
+964,49,European pilchard,88
+965,8,Yellow croaker,104
+966,62,Yellowstripe scad,52
+967,39,Japanese common catfish,63
+968,51,European anchovy,14
+969,38,Chinese perch,131
+970,17,North Pacific hake,128
+971,10,Whiteleg shrimp,49
+972,2,Gazami crab,42
+973,37,Pacific anchoveta,113
+974,0,Albacore,81
+975,77,Pacific sand lance,146
+976,30,Rohu,125
+977,59,Rainbow trout,104
+978,59,Hilsa shad,11
+979,99,Channel catfish,96
+980,44,Crucian carp,51
+981,46,"Japanese cockle,",145
+982,49,North Pacific hake,58
+983,87,Common carp,49
+984,28,Gazami crab,106
+985,54,Bigeye scad,21
+986,82,Araucanian herring,22
+987,11,Bigeye scad,115
+988,26,Northern snakehead,44
+989,12,Grass carp,61
+990,38,Common carp,147
+991,13,Cape horse mackerel,53
+992,22,Alaska pollock,99
+993,60,Albacore,147
+994,58,Pollock,66
+995,75,Chilean jack mackerel,36
+996,24,"Asari,",34
+997,88,Pacific sandlance,108
+998,62,Rohu,55
+999,22,Araucanian herring,147
+1000,9,Silver cyprinid,84
+1001,59,Cape horse mackerel,143
+1002,12,Pink salmon,78
+1003,21,Korean bullhead,77
+1004,42,Southern rough shrimp,18
+1005,68,Nile tilapia,135
+1006,88,Chum salmon,42
+1007,82,European sprat,46
+1008,33,Atlantic menhaden,125
+1009,46,Black carp,95
+1010,17,California pilchard,43
+1011,89,Asian swamp eel,34
+1012,33,Atlantic herring,141
+1013,35,Largehead hairtail,100
+1014,76,Daggertooth pike conger,31
+1015,56,Japanese flying squid,50
+1016,14,Nile tilapia,24
+1017,58,European anchovy,37
+1018,73,Pollock,124
+1019,72,Atlantic salmon,134
+1020,65,Bigeye scad,78
+1021,80,Amur catfish,76
+1022,29,Catla,83
+1023,74,Bombay-duck,90
+1024,94,Gazami crab,131
+1025,90,Albacore,35
+1026,16,Round sardinella,73
+1027,17,Narrow-barred Spanish mackerel,72
+1028,86,Catla,74
+1029,45,Chilean jack mackerel,51
+1030,46,Capelin,20
+1031,39,Wuchang bream,21
+1032,12,Pollock,61
+1033,9,Pink salmon,88
+1034,58,Wuchang bream,64
+1035,100,Wuchang bream,102
+1036,24,Silver carp,109
+1037,10,Hilsa shad,75
+1038,88,Northern snakehead,54
+1039,29,"Japanese littleneck,",20
+1040,0,Chum salmon,74
+1041,64,Albacore,128
+1042,71,Chinese perch,147
+1043,63,Crucian carp,141
+1044,41,Chum salmon,70
+1045,68,North Pacific hake,129
+1046,92,Chinese softshell turtle,50
+1047,64,Yellowfin tuna,54
+1048,5,Yellow croaker,23
+1049,35,Nile tilapia,76
+1050,6,Pollock,109
+1051,49,Nile tilapia,21
+1052,36,Yellowstripe scad,9
+1053,33,Hilsa shad,93
+1054,44,Yellow croaker,23
+1055,28,Milkfish,104
+1056,65,Bigeye scad,131
+1057,11,Japanese anchovy,75
+1058,49,Korean bullhead,74
+1059,15,Common carp,9
+1060,96,Gulf menhaden,98
+1061,55,Japanese common catfish,128
+1062,66,Round sardinella,107
+1063,16,Japanese common catfish,81
+1064,94,Nile tilapia,82
+1065,39,"Japanese cockle,",92
+1066,90,Black carp,105
+1067,17,Asian swamp eel,118
+1068,76,Jumbo flying squid,123
+1069,21,"Filipino Venus,",15
+1070,69,North Pacific hake,14
+1071,69,Largehead hairtail,106
+1072,63,Amur catfish,92
+1073,20,Nile tilapia,108
+1074,89,Short mackerel,63
+1075,88,Madeiran sardinella,40
+1076,55,Crucian carp,65
+1077,89,California pilchard,136
+1078,33,Atlantic mackerel,87
+1079,71,Peruvian anchoveta,33
+1080,45,Madeiran sardinella,35
+1081,67,Black carp,33
+1082,22,European sprat,66
+1083,98,Southern rough shrimp,138
+1084,31,Yellow croaker,82
+1085,32,California pilchard,69
+1086,2,Pacific sand lance,126
+1087,65,Chinese perch,21
+1088,2,Yellowhead catfish,13
+1089,98,Yellowfin tuna,58
+1090,60,Wuchang bream,15
+1091,65,Hilsa shad,44
+1092,91,Blue whiting,20
+1093,69,Chinese softshell turtle,53
+1094,63,Iridescent shark,5
+1095,95,Albacore,71
+1096,43,"Filipino Venus,",117
+1097,66,Atlantic cod,51
+1098,59,Blue whiting,20
+1099,47,Kawakawa,51
+1100,87,Catla,120
+1101,60,Chinese softshell turtle,8
+1102,45,Pacific anchoveta,146
+1103,17,Chilean jack mackerel,58
+1104,71,Blue whiting,124
+1105,20,Chum salmon,58
+1106,59,Chub mackerel,127
+1107,80,Nile perch,50
+1108,45,North Pacific hake,68
+1109,64,"Asari,",52
+1110,100,Haddock,88
+1111,87,Pacific saury,8
+1112,95,Bigeye scad,86
+1113,92,Chilean jack mackerel,129
+1114,63,Silver carp,91
+1115,4,Catla,117
+1116,35,Japanese common catfish,84
+1117,29,"Asari,",53
+1118,13,Common carp,137
+1119,85,Jumbo flying squid,89
+1120,60,Atlantic menhaden,87
+1121,0,Blood cockle,102
+1122,38,Gazami crab,99
+1123,25,Goldstripe sardinella,138
+1124,11,Pacific anchoveta,31
+1125,64,Japanese common catfish,53
+1126,34,Yellow croaker,98
+1127,90,Atlantic cod,92
+1128,34,Silver cyprinid,72
+1129,22,Wuchang bream,114
+1130,67,Pacific anchoveta,31
+1131,9,Silver carp,7
+1132,81,Peruvian anchoveta,118
+1133,62,Nile tilapia,79
+1134,11,Chilean jack mackerel,97
+1135,13,Iridescent shark,24
+1136,61,Blood cockle,36
+1137,73,Jumbo flying squid,51
+1138,5,Yellowfin tuna,134
+1139,14,Pollock,101
+1140,53,North Pacific hake,139
+1141,78,Pollock,63
+1142,36,Milkfish,59
+1143,0,Iridescent shark,74
+1144,15,Common carp,27
+1145,71,Iridescent shark,108
+1146,36,Japanese anchovy,68
+1147,72,Blood cockle,119
+1148,28,Peruvian anchoveta,135
+1149,70,Chilean jack mackerel,83
+1150,45,Iridescent shark,90
+1151,29,Atlantic menhaden,54
+1152,60,Wuchang bream,8
+1153,51,Argentine hake,67
+1154,14,Indian mackerel,17
+1155,56,Atlantic salmon,124
+1156,76,Blue whiting,68
+1157,96,Nile perch,142
+1158,54,Longtail tuna,12
+1159,49,Japanese pilchard,81
+1160,51,Blue whiting,99
+1161,20,Cape horse mackerel,131
+1162,50,North Pacific hake,19
+1163,31,Pond loach,148
+1164,14,Pacific anchoveta,130
+1165,46,European anchovy,141
+1166,80,Hilsa shad,36
+1167,21,Bighead carp,123
+1168,15,Southern rough shrimp,87
+1169,66,Yellowfin tuna,97
+1170,22,Northern snakehead,33
+1171,34,Southern rough shrimp,54
+1172,35,Blue swimming crab,116
+1173,5,Capelin,133
+1174,71,Northern snakehead,126
+1175,78,Bigeye scad,34
+1176,39,Pacific thread herring,81
+1177,3,Argentine hake,137
+1178,76,Nile perch,33
+1179,36,Haddock,53
+1180,85,Silver cyprinid,21
+1181,15,Araucanian herring,49
+1182,99,Gazami crab,80
+1183,74,Southern rough shrimp,95
+1184,62,Yellowfin tuna,72
+1185,36,Bighead carp,5
+1186,50,Round sardinella,45
+1187,20,Pollock,149
+1188,22,Cape horse mackerel,125
+1189,9,Chinese softshell turtle,142
+1190,86,Channel catfish,137
+1191,66,Black carp,82
+1192,95,Narrow-barred Spanish mackerel,134
+1193,72,Southern rough shrimp,63
+1194,8,Mrigal carp,91
+1195,83,California pilchard,7
+1196,77,Yellowhead catfish,116
+1197,48,Peruvian anchoveta,6
+1198,72,Blue swimming crab,24
+1199,97,Chub mackerel,26
+1200,92,Silver cyprinid,135
+1201,91,Round sardinella,46
+1202,24,Pond loach,119
+1203,24,Pacific sandlance,40
+1204,19,Southern rough shrimp,112
+1205,59,Mandarin fish,123
+1206,84,Chub mackerel,121
+1207,84,Alaska pollock,145
+1208,22,Atlantic menhaden,66
+1209,44,"Japanese littleneck,",6
+1210,58,Pacific saury,28
+1211,24,Cape horse mackerel,112
+1212,81,Pacific cod,73
+1213,84,Amur catfish,17
+1214,37,Crucian carp,89
+1215,2,Amur catfish,115
+1216,60,Crucian carp,134
+1217,70,Silver cyprinid,86
+1218,60,Korean bullhead,43
+1219,14,Araucanian herring,43
+1220,77,Nile tilapia,35
+1221,84,Rohu,92
+1222,36,Argentine hake,141
+1223,92,Mandarin fish,74
+1224,49,European sprat,127
+1225,40,Cape horse mackerel,42
+1226,50,Blood cockle,62
+1227,68,Bombay-duck,140
+1228,58,"Filipino Venus,",20
+1229,9,Pacific sand lance,6
+1230,22,Whiteleg shrimp,115
+1231,76,Argentine hake,81
+1232,16,Nile tilapia,125
+1233,42,Daggertooth pike conger,78
+1234,48,Cape horse mackerel,95
+1235,22,Silver cyprinid,34
+1236,21,Black carp,15
+1237,33,Japanese pilchard,146
+1238,62,Pacific thread herring,66
+1239,32,Catla,60
+1240,33,Madeiran sardinella,137
+1241,95,Rohu,49
+1242,30,Narrow-barred Spanish mackerel,130
+1243,75,Bighead carp,118
+1244,60,"Asari,",43
+1245,63,Jumbo flying squid,65
+1246,81,Yellow croaker,8
+1247,68,Haddock,111
+1248,38,Mandarin fish,146
+1249,81,Argentine hake,119
+1250,83,Atlantic herring,141
+1251,15,Indian oil sardine,83
+1252,27,Channel catfish,91
+1253,7,Chinese perch,39
+1254,17,Largehead hairtail,124
+1255,36,Atlantic cod,97
+1256,89,Northern snakehead,124
+1257,75,Blue swimming crab,90
+1258,25,Chinese perch,44
+1259,8,Bonga shad,104
+1260,53,Hilsa shad,140
+1261,95,Silver carp,135
+1262,1,Black carp,112
+1263,90,Round sardinella,60
+1264,70,North Pacific hake,111
+1265,88,Yellowhead catfish,53
+1266,27,Indian oil sardine,23
+1267,16,Indian mackerel,44
+1268,13,Korean bullhead,16
+1269,80,Indian oil sardine,140
+1270,36,Pacific thread herring,40
+1271,43,European anchovy,92
+1272,51,Longtail tuna,89
+1273,83,Indian oil sardine,49
+1274,73,Cape horse mackerel,76
+1275,68,Black carp,36
+1276,92,Crucian carp,134
+1277,91,Gulf menhaden,98
+1278,45,Nile tilapia,71
+1279,63,Japanese anchovy,51
+1280,32,Catla,32
+1281,78,Yellowfin tuna,92
+1282,47,Silver carp,146
+1283,66,Atlantic horse mackerel,44
+1284,38,Asian swamp eel,119
+1285,12,Southern rough shrimp,49
+1286,88,Blue swimming crab,8
+1287,3,Silver carp,58
+1288,41,Largehead hairtail,44
+1289,89,"Japanese cockle,",46
+1290,26,Bonga shad,86
+1291,41,North Pacific hake,75
+1292,37,Bigeye tuna,78
+1293,99,Yellowfin tuna,89
+1294,43,Atlantic herring,63
+1295,76,Daggertooth pike conger,141
+1296,48,Largehead hairtail,144
+1297,81,Capelin,62
+1298,65,"Japanese littleneck,",118
+1299,78,European sprat,8
+1300,27,European sprat,21
+1301,30,Atlantic menhaden,13
+1302,8,Mandarin fish,99
+1303,78,Nile tilapia,45
+1304,17,Chinese softshell turtle,24
+1305,23,Yellowstripe scad,94
+1306,65,Atlantic cod,75
+1307,65,Crucian carp,58
+1308,59,Capelin,132
+1309,88,Pacific thread herring,42
+1310,35,Atlantic herring,105
+1311,32,Araucanian herring,5
+1312,49,Kawakawa,94
+1313,66,Blue swimming crab,77
+1314,69,Jumbo flying squid,138
+1315,41,Indian mackerel,88
+1316,10,Atlantic salmon,41
+1317,23,Yellowstripe scad,93
+1318,67,Yellowstripe scad,141
+1319,73,Crucian carp,94
+1320,48,Pacific anchoveta,103
+1321,86,Cape horse mackerel,117
+1322,1,Blue swimming crab,25
+1323,44,Atlantic herring,114
+1324,93,Amur catfish,31
+1325,54,Atlantic menhaden,77
+1326,95,Japanese common catfish,48
+1327,88,Mandarin fish,104
+1328,84,Southern rough shrimp,54
+1329,45,Pond loach,140
+1330,73,Milkfish,116
+1331,1,Cape horse mackerel,20
+1332,21,Cape horse mackerel,102
+1333,83,Nile perch,21
+1334,45,Chinese softshell turtle,72
+1335,72,Southern rough shrimp,106
+1336,92,Atlantic horse mackerel,46
+1337,14,European anchovy,144
+1338,90,Atlantic menhaden,37
+1339,10,Common carp,99
+1340,100,Pacific cod,109
+1341,66,Pacific sandlance,53
+1342,95,Whiteleg shrimp,103
+1343,95,Atlantic salmon,78
+1344,24,Bonga shad,150
+1345,44,European sprat,22
+1346,41,Black carp,128
+1347,51,Atlantic salmon,120
+1348,52,Pacific thread herring,66
+1349,5,Chinese softshell turtle,14
+1350,69,Round sardinella,147
+1351,54,North Pacific hake,73
+1352,18,Northern snakehead,132
+1353,32,Japanese flying squid,120
+1354,93,Argentine hake,138
+1355,83,Madeiran sardinella,48
+1356,55,Japanese anchovy,120
+1357,25,Milkfish,64
+1358,90,Capelin,144
+1359,66,"Filipino Venus,",89
+1360,55,Araucanian herring,18
+1361,54,Araucanian herring,44
+1362,89,Largehead hairtail,31
+1363,15,Northern snakehead,51
+1364,20,Pacific cod,47
+1365,76,Yellowstripe scad,93
+1366,50,Nile perch,91
+1367,33,Japanese flying squid,8
+1368,84,European anchovy,44
+1369,61,Northern snakehead,139
+1370,48,Bombay-duck,144
+1371,13,Chinese softshell turtle,119
+1372,45,Rohu,134
+1373,4,Atlantic menhaden,73
+1374,80,Atlantic herring,100
+1375,23,"Asari,",42
+1376,0,Yellowfin tuna,150
+1377,71,Iridescent shark,77
+1378,54,Bigeye scad,125
+1379,92,Yellow croaker,53
+1380,71,European pilchard,18
+1381,26,Black carp,82
+1382,6,Atlantic herring,17
+1383,17,Bighead carp,109
+1384,47,Pond loach,141
+1385,4,Capelin,121
+1386,34,Southern African anchovy,39
+1387,87,Rohu,100
+1388,76,Araucanian herring,34
+1389,63,Hilsa shad,19
+1390,16,Argentine hake,143
+1391,1,Southern rough shrimp,43
+1392,0,Yellowfin tuna,97
+1393,41,Pollock,139
+1394,13,Gulf menhaden,124
+1395,49,Pond loach,109
+1396,12,Narrow-barred Spanish mackerel,40
+1397,81,Short mackerel,51
+1398,30,Common carp,121
+1399,43,Iridescent shark,104
+1400,1,Hilsa shad,90
+1401,24,Silver cyprinid,31
+1402,8,Northern snakehead,79
+1403,9,Chinese perch,79
+1404,59,Pacific sandlance,49
+1405,93,Atlantic salmon,31
+1406,55,Bonga shad,148
+1407,37,Narrow-barred Spanish mackerel,106
+1408,55,Short mackerel,129
+1409,85,Japanese anchovy,81
+1410,59,Alaska pollock,119
+1411,36,Asian swamp eel,26
+1412,89,Channel catfish,86
+1413,17,Nile tilapia,125
+1414,51,Yellowfin tuna,35
+1415,1,Whiteleg shrimp,42
+1416,36,California pilchard,144
+1417,17,Iridescent shark,9
+1418,95,Peruvian anchoveta,63
+1419,7,Pacific cod,136
+1420,44,Atlantic horse mackerel,39
+1421,4,Mandarin fish,39
+1422,56,Bombay-duck,9
+1423,43,Jumbo flying squid,74
+1424,1,Bombay-duck,51
+1425,57,Pacific sandlance,38
+1426,79,Nile tilapia,33
+1427,89,Albacore,119
+1428,35,Northern snakehead,16
+1429,33,Nile perch,65
+1430,96,Pacific anchoveta,149
+1431,40,Pacific anchoveta,144
+1432,83,Blue swimming crab,43
+1433,73,Channel catfish,144
+1434,85,European pilchard,112
+1435,98,Silver carp,14
+1436,76,Longtail tuna,47
+1437,54,Madeiran sardinella,37
+1438,58,Chinese perch,72
+1439,74,Pacific cod,126
+1440,16,Chinese perch,50
+1441,90,Rainbow trout,149
+1442,2,Largehead hairtail,19
+1443,21,Indian mackerel,87
+1444,23,Atlantic horse mackerel,22
+1445,81,Milkfish,108
+1446,29,Atlantic menhaden,124
+1447,37,Milkfish,99
+1448,1,Catla,56
+1449,41,Madeiran sardinella,106
+1450,25,Southern rough shrimp,95
+1451,8,Black carp,136
+1452,86,Gazami crab,5
+1453,0,Silver cyprinid,140
+1454,98,Nile perch,59
+1455,72,Narrow-barred Spanish mackerel,109
+1456,18,Japanese jack mackerel,77
+1457,8,Pollock,57
+1458,88,Asian swamp eel,123
+1459,24,Peruvian anchoveta,138
+1460,30,Atlantic herring,120
+1461,32,Atlantic cod,37
+1462,62,Goldstripe sardinella,44
+1463,89,Cape horse mackerel,94
+1464,57,Pacific anchoveta,150
+1465,66,Japanese anchovy,56
+1466,12,Yellowhead catfish,10
+1467,21,Bigeye tuna,75
+1468,46,Yellowhead catfish,108
+1469,19,Whiteleg shrimp,140
+1470,58,Silver carp,109
+1471,1,Silver cyprinid,117
+1472,12,Atlantic salmon,74
+1473,59,California pilchard,104
+1474,94,Northern snakehead,14
+1475,44,Blue whiting,90
+1476,39,Channel catfish,70
+1477,33,Goldstripe sardinella,138
+1478,88,Southern African anchovy,37
+1479,89,Goldstripe sardinella,74
+1480,65,Atlantic herring,150
+1481,10,Milkfish,36
+1482,39,Chilean jack mackerel,9
+1483,51,Bigeye tuna,15
+1484,97,"Filipino Venus,",29
+1485,80,Pacific saury,46
+1486,49,Japanese jack mackerel,49
+1487,47,"Filipino Venus,",99
+1488,56,Pink salmon,134
+1489,7,Blue whiting,36
+1490,61,California pilchard,129
+1491,100,Mrigal carp,27
+1492,75,California pilchard,41
+1493,82,Nile perch,58
+1494,53,Wuchang bream,149
+1495,43,Mrigal carp,30
+1496,70,Pacific saury,131
+1497,60,Argentine hake,137
+1498,83,Black carp,37
+1499,50,Atlantic horse mackerel,39
+1500,93,Atlantic herring,118
+1501,0,Atlantic mackerel,80
+1502,49,Bigeye tuna,81
+1503,63,Pacific saury,14
+1504,26,Pacific herring,82
+1505,13,European sprat,41
+1506,14,Northern snakehead,136
+1507,38,Round sardinella,91
+1508,28,Common carp,75
+1509,81,Atlantic cod,49
+1510,63,Japanese pilchard,5
+1511,17,Common carp,118
+1512,24,Atlantic cod,147
+1513,93,Atlantic cod,86
+1514,42,European pilchard,80
+1515,54,Yellowhead catfish,97
+1516,69,Atlantic herring,16
+1517,90,Japanese anchovy,142
+1518,18,Atlantic herring,78
+1519,70,Round sardinella,146
+1520,85,Alaska pollock,24
+1521,56,Gulf menhaden,79
+1522,99,Pink salmon,86
+1523,99,Indian mackerel,95
+1524,83,Indian oil sardine,133
+1525,8,Grass carp,33
+1526,67,Pink salmon,58
+1527,99,Chinese perch,137
+1528,93,Blue whiting,51
+1529,59,European sprat,30
+1530,9,Rainbow trout,69
+1531,21,Madeiran sardinella,127
+1532,72,Alaska pollock,103
+1533,58,Short mackerel,63
+1534,84,Southern rough shrimp,64
+1535,100,Cape horse mackerel,85
+1536,4,Pollock,82
+1537,21,Short mackerel,70
+1538,73,Silver carp,87
+1539,94,Pollock,96
+1540,9,Narrow-barred Spanish mackerel,33
+1541,83,Pond loach,91
+1542,19,Silver carp,11
+1543,65,Bigeye scad,122
+1544,29,Atlantic cod,42
+1545,80,Silver cyprinid,137
+1546,62,Narrow-barred Spanish mackerel,41
+1547,66,Yellowfin tuna,63
+1548,24,Bigeye tuna,73
+1549,91,Bigeye scad,39
+1550,72,Japanese common catfish,150
+1551,45,Bigeye tuna,75
+1552,76,Iridescent shark,139
+1553,41,Yellowfin tuna,12
+1554,32,Yellowfin tuna,48
+1555,76,Rohu,110
+1556,38,Albacore,114
+1557,54,Gulf menhaden,125
+1558,56,"Japanese cockle,",129
+1559,65,Pacific sand lance,57
+1560,46,Blue whiting,84
+1561,67,Bigeye scad,59
+1562,26,Atlantic salmon,112
+1563,78,Blue whiting,67
+1564,24,Haddock,72
+1565,85,Atlantic menhaden,134
+1566,81,Peruvian anchoveta,62
+1567,100,European sprat,40
+1568,86,Short mackerel,74
+1569,17,Gulf menhaden,65
+1570,6,Nile tilapia,31
+1571,82,Pacific sandlance,146
+1572,41,Mrigal carp,10
+1573,50,Korean bullhead,107
+1574,71,Catla,47
+1575,80,Jumbo flying squid,59
+1576,39,European pilchard,86
+1577,70,Nile tilapia,122
+1578,51,Japanese pilchard,134
+1579,36,Catla,112
+1580,82,European pilchard,86
+1581,40,Chum salmon,71
+1582,63,Japanese flying squid,100
+1583,78,Atlantic herring,34
+1584,21,Goldstripe sardinella,10
+1585,7,Madeiran sardinella,106
+1586,77,Bigeye tuna,67
+1587,81,Pacific sandlance,134
+1588,86,Hilsa shad,128
+1589,34,Indian mackerel,46
+1590,12,Atlantic mackerel,52
+1591,93,Jumbo flying squid,139
+1592,80,Iridescent shark,130
+1593,87,Round sardinella,83
+1594,54,Largehead hairtail,33
+1595,42,Pacific saury,115
+1596,99,Atlantic cod,87
+1597,77,Japanese common catfish,108
+1598,63,Peruvian anchoveta,69
+1599,12,Peruvian anchoveta,85
+1600,96,Iridescent shark,130
+1601,57,"Filipino Venus,",53
+1602,35,Yellowfin tuna,74
+1603,94,Atlantic menhaden,130
+1604,42,Round sardinella,135
+1605,96,"Japanese littleneck,",105
+1606,42,Southern African anchovy,14
+1607,13,Bonga shad,100
+1608,1,Araucanian herring,92
+1609,39,Atlantic mackerel,63
+1610,52,Nile tilapia,60
+1611,74,Catla,144
+1612,97,Largehead hairtail,103
+1613,2,Skipjack tuna,117
+1614,10,Haddock,9
+1615,87,Chum salmon,106
+1616,39,Atlantic mackerel,57
+1617,83,Mrigal carp,137
+1618,29,Amur catfish,33
+1619,71,Bonga shad,71
+1620,61,Crucian carp,144
+1621,29,Blood cockle,73
+1622,43,Kawakawa,8
+1623,45,Blood cockle,137
+1624,40,Nile perch,42
+1625,10,European sprat,95
+1626,48,Pond loach,69
+1627,3,Nile perch,126
+1628,88,Yellowstripe scad,114
+1629,81,Madeiran sardinella,141
+1630,45,Chilean jack mackerel,48
+1631,98,"Japanese littleneck,",125
+1632,69,Grass carp,39
+1633,49,Haddock,86
+1634,14,Yellowhead catfish,14
+1635,11,Pink salmon,79
+1636,51,Amur catfish,79
+1637,6,Iridescent shark,87
+1638,10,Chum salmon,92
+1639,14,Korean bullhead,76
+1640,6,Atlantic mackerel,148
+1641,1,Southern rough shrimp,111
+1642,20,Silver cyprinid,132
+1643,20,Chinese softshell turtle,55
+1644,43,Pink salmon,147
+1645,2,Nile tilapia,58
+1646,35,Jumbo flying squid,133
+1647,31,Amur catfish,133
+1648,92,Nile tilapia,66
+1649,65,Pacific herring,106
+1650,68,Pacific thread herring,112
+1651,19,Japanese jack mackerel,26
+1652,67,Yellowhead catfish,52
+1653,69,Chum salmon,15
+1654,64,North Pacific hake,39
+1655,91,Skipjack tuna,136
+1656,95,"Japanese littleneck,",100
+1657,50,Rohu,47
+1658,28,European anchovy,5
+1659,6,Chub mackerel,149
+1660,42,Korean bullhead,96
+1661,38,Bighead carp,31
+1662,91,Chinese softshell turtle,55
+1663,60,Southern African anchovy,61
+1664,52,Pacific anchoveta,93
+1665,9,Amur catfish,92
+1666,76,Pacific herring,97
+1667,66,Bigeye tuna,126
+1668,97,Mrigal carp,26
+1669,12,Kawakawa,112
+1670,93,Japanese common catfish,72
+1671,91,Araucanian herring,125
+1672,46,Peruvian anchoveta,116
+1673,28,Rainbow trout,60
+1674,13,"Japanese cockle,",45
+1675,45,Albacore,22
+1676,83,Chinese softshell turtle,85
+1677,42,European anchovy,96
+1678,19,Pollock,52
+1679,51,Cape horse mackerel,147
+1680,15,Asian swamp eel,136
+1681,1,"Asari,",122
+1682,38,European sprat,5
+1683,63,Southern rough shrimp,41
+1684,35,Bombay-duck,75
+1685,23,"Filipino Venus,",124
+1686,24,Indian mackerel,44
+1687,76,Japanese common catfish,5
+1688,48,Jumbo flying squid,110
+1689,24,Mandarin fish,147
+1690,94,Chilean jack mackerel,24
+1691,55,Araucanian herring,73
+1692,91,Northern snakehead,30
+1693,43,Albacore,104
+1694,96,Japanese anchovy,21
+1695,88,Capelin,84
+1696,12,Grass carp,120
+1697,35,Southern rough shrimp,122
+1698,50,Araucanian herring,102
+1699,36,Chub mackerel,111
+1700,1,Narrow-barred Spanish mackerel,73
+1701,12,Yellow croaker,86
+1702,0,Grass carp,104
+1703,24,Pollock,64
+1704,22,Pond loach,46
+1705,27,Yellow croaker,25
+1706,85,Japanese common catfish,57
+1707,71,Grass carp,82
+1708,98,Chinese softshell turtle,102
+1709,39,Pollock,19
+1710,70,Argentine hake,149
+1711,96,Bigeye scad,91
+1712,81,Indian oil sardine,144
+1713,42,Wuchang bream,56
+1714,22,Silver carp,85
+1715,45,Southern African anchovy,140
+1716,69,Nile tilapia,68
+1717,53,Largehead hairtail,109
+1718,11,California pilchard,97
+1719,39,Silver cyprinid,37
+1720,98,Milkfish,117
+1721,82,Indian mackerel,89
+1722,67,Atlantic cod,9
+1723,52,Skipjack tuna,25
+1724,47,Araucanian herring,87
+1725,83,Pacific cod,134
+1726,29,Kawakawa,110
+1727,54,Bighead carp,63
+1728,78,Southern African anchovy,100
+1729,85,Bombay-duck,67
+1730,19,"Japanese littleneck,",37
+1731,37,Pacific anchoveta,42
+1732,0,Indian mackerel,126
+1733,24,Black carp,26
+1734,16,Chinese perch,47
+1735,42,Yellowstripe scad,91
+1736,74,Daggertooth pike conger,91
+1737,24,Mrigal carp,145
+1738,100,Wuchang bream,92
+1739,66,Pink salmon,128
+1740,82,Haddock,70
+1741,53,Round sardinella,83
+1742,36,Pacific cod,20
+1743,1,Pacific anchoveta,37
+1744,5,Pacific anchoveta,45
+1745,21,Capelin,86
+1746,47,Channel catfish,132
+1747,55,Short mackerel,113
+1748,18,Atlantic herring,79
+1749,10,Mandarin fish,141
+1750,8,Pacific cod,37
+1751,69,Yellowhead catfish,45
+1752,37,Pacific thread herring,21
+1753,80,Albacore,131
+1754,94,Yellow croaker,119
+1755,11,California pilchard,106
+1756,87,Kawakawa,98
+1757,84,Chinese perch,144
+1758,26,Indian mackerel,61
+1759,20,Hilsa shad,29
+1760,26,Skipjack tuna,28
+1761,28,Round sardinella,131
+1762,50,Blue whiting,58
+1763,9,Yellow croaker,88
+1764,60,Iridescent shark,113
+1765,10,Grass carp,43
+1766,84,Goldstripe sardinella,97
+1767,19,Cape horse mackerel,91
+1768,83,Albacore,148
+1769,12,Gulf menhaden,90
+1770,19,Bigeye scad,84
+1771,100,Chinese softshell turtle,102
+1772,27,Bigeye tuna,26
+1773,60,Silver carp,148
+1774,26,Amur catfish,30
+1775,15,Araucanian herring,108
+1776,7,Iridescent shark,61
+1777,72,Nile perch,77
+1778,62,Blue swimming crab,119
+1779,58,Madeiran sardinella,25
+1780,79,Pacific herring,18
+1781,8,Chilean jack mackerel,144
+1782,1,Daggertooth pike conger,87
+1783,91,Chinese softshell turtle,83
+1784,71,Catla,67
+1785,64,Grass carp,48
+1786,15,"Filipino Venus,",20
+1787,92,Round sardinella,103
+1788,66,Skipjack tuna,131
+1789,89,Japanese jack mackerel,65
+1790,29,Amur catfish,51
+1791,11,Nile tilapia,50
+1792,78,Grass carp,58
+1793,86,Kawakawa,138
+1794,19,Nile tilapia,57
+1795,18,Chinese softshell turtle,48
+1796,94,Atlantic horse mackerel,6
+1797,3,Southern African anchovy,75
+1798,20,"Japanese cockle,",83
+1799,88,Pacific thread herring,25
+1800,65,Pacific thread herring,101
+1801,38,Argentine hake,13
+1802,56,Nile tilapia,12
+1803,23,Milkfish,14
+1804,20,Bonga shad,80
+1805,51,Nile tilapia,68
+1806,59,Albacore,127
+1807,52,Chilean jack mackerel,15
+1808,46,Rainbow trout,68
+1809,75,Rainbow trout,123
+1810,26,Araucanian herring,135
+1811,100,"Japanese littleneck,",26
+1812,50,European pilchard,123
+1813,95,Nile tilapia,138
+1814,85,Gazami crab,55
+1815,18,Japanese flying squid,21
+1816,79,Korean bullhead,69
+1817,7,Silver carp,139
+1818,76,European sprat,15
+1819,0,Black carp,66
+1820,97,Korean bullhead,114
+1821,82,Crucian carp,17
+1822,75,Southern African anchovy,85
+1823,0,Pacific anchoveta,124
+1824,82,Nile perch,88
+1825,55,Argentine hake,121
+1826,25,Nile perch,26
+1827,65,Common carp,56
+1828,74,Atlantic herring,145
+1829,62,Nile tilapia,100
+1830,69,Gulf menhaden,84
+1831,3,Nile perch,147
+1832,32,Pacific anchoveta,78
+1833,19,Pacific cod,94
+1834,26,Pollock,80
+1835,55,Yellow croaker,77
+1836,2,Silver carp,15
+1837,29,Indian oil sardine,113
+1838,18,Silver cyprinid,28
+1839,39,Albacore,80
+1840,50,Largehead hairtail,150
+1841,13,Yellowfin tuna,91
+1842,64,Atlantic mackerel,115
+1843,59,Daggertooth pike conger,136
+1844,82,Yellowhead catfish,104
+1845,54,Yellowhead catfish,96
+1846,95,Pacific anchoveta,64
+1847,10,European anchovy,113
+1848,22,California pilchard,21
+1849,28,Capelin,96
+1850,2,Nile tilapia,44
+1851,76,Nile tilapia,14
+1852,90,Narrow-barred Spanish mackerel,71
+1853,31,Yellow croaker,12
+1854,28,"Asari,",143
+1855,67,Rohu,27
+1856,25,Nile tilapia,135
+1857,86,Yellowstripe scad,146
+1858,11,Southern rough shrimp,45
+1859,4,Catla,131
+1860,79,Yellow croaker,81
+1861,26,Gazami crab,13
+1862,45,Atlantic cod,113
+1863,66,Silver cyprinid,130
+1864,7,Narrow-barred Spanish mackerel,91
+1865,8,Pacific herring,103
+1866,27,Pacific sand lance,70
+1867,56,Channel catfish,148
+1868,0,Bigeye scad,26
+1869,99,North Pacific hake,81
+1870,23,Chilean jack mackerel,113
+1871,96,"Japanese littleneck,",105
+1872,40,Mandarin fish,71
+1873,91,Bigeye tuna,96
+1874,93,Chum salmon,67
+1875,78,Chinese perch,67
+1876,1,Atlantic menhaden,7
+1877,95,Pacific thread herring,109
+1878,26,Atlantic menhaden,26
+1879,94,"Filipino Venus,",23
+1880,75,European pilchard,68
+1881,73,Wuchang bream,75
+1882,23,Silver carp,77
+1883,92,Capelin,81
+1884,85,Black carp,134
+1885,74,Narrow-barred Spanish mackerel,100
+1886,27,Japanese anchovy,92
+1887,49,Argentine hake,95
+1888,46,Chilean jack mackerel,121
+1889,40,Yellowfin tuna,149
+1890,7,Atlantic herring,95
+1891,65,Gulf menhaden,71
+1892,39,Bigeye tuna,14
+1893,1,Pacific sandlance,37
+1894,41,Alaska pollock,145
+1895,41,Milkfish,15
+1896,32,Mrigal carp,139
+1897,96,Cape horse mackerel,149
+1898,45,Asian swamp eel,68
+1899,100,Atlantic horse mackerel,12
+1900,0,Nile tilapia,117
+1901,45,Peruvian anchoveta,19
+1902,28,Milkfish,31
+1903,5,Pollock,104
+1904,21,California pilchard,11
+1905,78,Hilsa shad,38
+1906,5,Pollock,99
+1907,27,Silver carp,100
+1908,32,Pacific sandlance,63
+1909,57,"Filipino Venus,",91
+1910,77,Largehead hairtail,18
+1911,50,Nile perch,126
+1912,34,Whiteleg shrimp,98
+1913,98,Pacific cod,118
+1914,63,Crucian carp,38
+1915,92,Blue whiting,74
+1916,51,Indian mackerel,131
+1917,36,Rohu,110
+1918,47,Yellowstripe scad,141
+1919,40,Largehead hairtail,102
+1920,63,Black carp,87
+1921,100,Haddock,116
+1922,18,Atlantic salmon,89
+1923,23,Kawakawa,121
+1924,94,European pilchard,21
+1925,33,Asian swamp eel,95
+1926,97,Grass carp,129
+1927,72,Whiteleg shrimp,54
+1928,40,Wuchang bream,65
+1929,12,Bigeye tuna,44
+1930,10,Haddock,13
+1931,69,Japanese anchovy,89
+1932,66,Blood cockle,14
+1933,97,Yellowfin tuna,125
+1934,57,Catla,58
+1935,89,Yellow croaker,61
+1936,69,Black carp,11
+1937,73,"Asari,",26
+1938,100,Nile tilapia,9
+1939,55,Atlantic salmon,137
+1940,40,Wuchang bream,143
+1941,23,Southern rough shrimp,7
+1942,66,"Asari,",106
+1943,95,Narrow-barred Spanish mackerel,68
+1944,18,Bombay-duck,54
+1945,58,California pilchard,33
+1946,61,Albacore,116
+1947,2,Pacific cod,114
+1948,2,Yellow croaker,115
+1949,79,North Pacific hake,6
+1950,89,Chum salmon,146
+1951,23,Atlantic salmon,142
+1952,76,Short mackerel,125
+1953,13,Blue swimming crab,38
+1954,3,Bombay-duck,148
+1955,95,Nile tilapia,25
+1956,36,Goldstripe sardinella,112
+1957,91,Pacific thread herring,58
+1958,34,Japanese anchovy,124
+1959,91,Capelin,97
+1960,54,Milkfish,62
+1961,0,Wuchang bream,64
+1962,21,Japanese common catfish,39
+1963,44,Bighead carp,116
+1964,56,Iridescent shark,77
+1965,65,Capelin,95
+1966,50,Crucian carp,20
+1967,64,Atlantic mackerel,144
+1968,61,Milkfish,24
+1969,77,Southern rough shrimp,128
+1970,71,Southern African anchovy,24
+1971,92,Jumbo flying squid,139
+1972,48,Bombay-duck,26
+1973,46,Araucanian herring,71
+1974,15,Cape horse mackerel,91
+1975,15,Araucanian herring,147
+1976,18,Pacific anchoveta,92
+1977,68,European sprat,63
+1978,88,Blue swimming crab,131
+1979,38,Cape horse mackerel,95
+1980,36,Southern African anchovy,134
+1981,32,Jumbo flying squid,47
+1982,46,Pacific anchoveta,29
+1983,34,Atlantic salmon,150
+1984,66,Yellow croaker,16
+1985,62,Pacific anchoveta,149
+1986,25,Southern rough shrimp,113
+1987,78,Yellowhead catfish,136
+1988,55,Southern African anchovy,57
+1989,28,Blue swimming crab,61
+1990,26,Korean bullhead,27
+1991,2,Skipjack tuna,89
+1992,80,Pond loach,16
+1993,0,Peruvian anchoveta,75
+1994,99,European anchovy,135
+1995,96,Bighead carp,103
+1996,13,Blue swimming crab,119
+1997,96,Nile tilapia,28
+1998,57,Rohu,21
+1999,69,Nile tilapia,77
+2000,6,California pilchard,32
